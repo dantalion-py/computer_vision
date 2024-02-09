@@ -18,3 +18,4 @@ cv2.waitKey(0)
 
 # Cierra la ventana
 cv2.destroyAllWindows()
+# Sapphire Safari
