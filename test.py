@@ -1,3 +1,4 @@
+touch {archivo1,archivo2,archivo3}.txt
 
 
 import cv2
